@@ -131,12 +131,13 @@
         background-repeat: no-repeat;
         background-position: center;
         margin-left: 15%;
-        padding-top: 300px;
+        padding-top: 50px;
     }
     
     .imgback {
         padding-top: 500px;
-        padding-left: 300px;
+        padding-bottom: 250px;
+        padding-left: 90px;
     }
     
     .underimageone {
@@ -150,15 +151,21 @@
         padding: 20px 30px;
         border-radius: 5px;
         color: white;
-        font-weight: 700;
+        font-weight: 100;
+        margin-left: 390px;
     }
     
     .new {
         float: left;
+        border-bottom: 50px;
+    }
+    
+    .new h1 {
+        display: inline-block;
+        padding-left: 90px;
+        padding-bottom: 90px;
     }
     
     .new1 {
-        font-size: 55px;
-        font-weight: 800;
-        padding-bottom: 100px;
+        padding-right: 100;
     }
